@@ -1,7 +1,7 @@
 # Vicsek Model Simulation and Analysis
 
 ## Overview
-This project investigates **collective motion in active matter** using the Vicsek model.  
+This project simulate the **collective motion in active matter** using the Vicsek model.  
 The system consists of self-propelled particles that align with neighbors under varying noise and density.  
 We explored how **phase transitions** emerge between disordered and ordered states.
 
