@@ -29,4 +29,5 @@ We explored how **phase transitions** emerge between disordered and ordered stat
 ## Files
 - `report.pdf` – Full written report  
 - `presentation.pdf` – Project presentation slides  
-- `simulation_code/` – Python scripts for running and analyzing simulations  
+- `simulation code/` – Python scripts for running the Vicsek Model simulations
+- `analysis code/` – Python scripts for the analysis (MSE, DFA...)
