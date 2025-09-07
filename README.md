@@ -104,7 +104,6 @@ This analysis framework can be applied to:
 - Social dynamics
 - Active matter physics research
 
-```
 
 ## Methodology
 
